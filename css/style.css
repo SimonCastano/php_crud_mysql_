@@ -1,0 +1,23 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.task-container{
+    background-color: #eeeeee;
+    width:80%;
+    overflow-y: scroll;
+    margin: 0 auto;
+    border-radius: 30px;
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
