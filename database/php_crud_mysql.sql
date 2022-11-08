@@ -1,3 +1,6 @@
+  CREATE DATABASE php_crud_mysql;
+  USE php_crud_mysql;
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
